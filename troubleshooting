@@ -1,1 +1,3 @@
+Active Directory Domain Join Troubleshooting: DNS Resolution Failure
 
+During an attempt to join a Windows client machine (Client-1) to an Active Directory domain (mydomain.com), a DNS resolution failure occurred. The client was unable to resolve the domain name, which prevented the domain join operation from completing successfully.
