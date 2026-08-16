@@ -1,3 +1,5 @@
 Active Directory Domain Join Troubleshooting: DNS Resolution Failure
 
-During an attempt to join a Windows client machine (Client-1) to an Active Directory domain (mydomain.com), a DNS resolution failure occurred. The client was unable to resolve the domain name, which prevented the domain join operation from completing successfully.
+During an attempt to join a Windows client machine (Client-1) to my Active Directory domain (mydomain.com), a DNS resolution failure occurred. The client was unable to resolve the domain name, which prevented the domain join operation from completing successfully.
+When attempting to join the domain through System Properties, the operation failed. The client's system properties showed it was currently configured as a member of a WORKGROUP rather than a domain, with the computer name set to "Client-1" and the full computer name also showing as "Client-1".
+To diagnose the issue, the nslookup mydomain.com command was executed on Client-1. The output revealed multiple DNS request timeouts, indicating that the DNS server at address 172.16.0.1 was not responding to queries. The DNS server was listed as "Unknown" in the response, confirming that the client could not communicate with the configured DNS server to resolve the domain name.
