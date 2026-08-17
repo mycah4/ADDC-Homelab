@@ -1,4 +1,4 @@
-The transcript documents installing Remote Access, configuring Routing and NAT, and using the Domain Controller's internet-facing interface for NAT.
+Installing Remote Access, configuring Routing and NAT, and using the Domain Controller's internet-facing interface for NAT.
 
 ---
 
