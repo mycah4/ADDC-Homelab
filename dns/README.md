@@ -33,5 +33,5 @@ This allows the client to resolve the Active Directory domain.
 
 DNS configuration was verified using:
 
-powershell
+'''powershell'''
 ipconfig /all
