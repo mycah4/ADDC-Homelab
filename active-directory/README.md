@@ -34,7 +34,6 @@ The server was then promoted to a Domain Controller by creating a new Active Dir
 
 The domain contains organizational units used to organize administrative accounts and standard users.
 
-```text
 Domain
 │
 ├── Admin OU
