@@ -1,5 +1,5 @@
 
-The transcript provides the DHCP scope and explains the gateway and DNS options. :contentReference[oaicite:3]{index=3}
+Provides the DHCP scope and explains the gateway and DNS options.
 
 ---
 # 6. `routing-and-nat/README.md`
