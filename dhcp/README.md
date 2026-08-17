@@ -1,4 +1,4 @@
-Explains using the Domain Controller as DNS because Active Directory installs DNS and the client needs the DC as its DNS server. :contentReference[oaicite:2]{index=2}
+Explains using the Domain Controller as DNS because Active Directory installs DNS and the client needs the DC as its DNS server.
 
 ---
 
