@@ -30,7 +30,6 @@ Routing was configured on the Domain Controller so traffic from the internal cli
 
 Network Address Translation was configured so internal clients could access the internet through the Domain Controller's external connection.
 
-```text
 Windows Client
       |
 Internal Network
