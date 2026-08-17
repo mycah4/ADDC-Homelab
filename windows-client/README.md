@@ -32,5 +32,5 @@ The client receives:
 
 The client's network configuration was checked using:
 
-```powershell
+powershell
 ipconfig /all
