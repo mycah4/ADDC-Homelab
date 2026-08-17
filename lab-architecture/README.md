@@ -13,7 +13,7 @@ The client connects to an isolated internal network and uses the Domain Controll
 | Component | Role |
 |---|---|
 | Windows Server 2022 | Domain Controller |
-| Windows 10/11 Client | Domain-joined workstation |
+| Windows 10 Client | Domain-joined workstation |
 | Active Directory Domain Services | Centralized authentication and administration |
 | DNS | Domain name resolution |
 | DHCP | Automatic IP configuration |
