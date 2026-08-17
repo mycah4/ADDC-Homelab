@@ -34,7 +34,6 @@ The Windows client received an IP address but did not receive a default gateway.
 
 When troubleshooting the lab, I follow a structured process:
 
-```text
 Identify Problem
       |
       v
