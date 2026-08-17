@@ -1,1 +1,1 @@
-
+Working on generate and investigate security events within the Active Directory environment, Account Lockout, Privileged Account Activity, Windows Event Logs, Powershell Activity, Planned Investigation Process
