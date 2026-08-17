@@ -25,5 +25,5 @@ However, the client did not have a default gateway.
 
 I checked the client's network configuration using:
 
-powershell
+powershell:
 ipconfig
