@@ -1,5 +1,5 @@
 
-The transcript describes the two-interface design and the Domain Controller's role in routing internal client traffic.
+Describes the two-interface design and the Domain Controller's role in routing internal client traffic.
 ---
 
 # 4. `dns/README.md`
