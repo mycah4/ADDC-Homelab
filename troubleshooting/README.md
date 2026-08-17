@@ -1,5 +1,5 @@
 
-Shows the client receiving its IP configuration, troubleshooting the gateway, testing internet connectivity, renaming the computer, and joining the domain. :contentReference[oaicite:6]{index=6}
+Shows the client receiving its IP configuration, troubleshooting the gateway, testing internet connectivity, renaming the computer, and joining the domain.
 
 ---
 
