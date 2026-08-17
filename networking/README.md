@@ -1,5 +1,5 @@
 
-The transcript supports the domain creation, administrative OU, dedicated administrator, and Domain Admins configuration. :contentReference[oaicite:0]{index=0}
+The transcript supports the domain creation, administrative OU, dedicated administrator, and Domain Admins configuration.:contentReference[oaicite:0]{index=0}
 
 ---
 
@@ -28,7 +28,7 @@ The Windows client connects to this internal network.
 
 ## Network Architecture
 
-```text
+
 Internet
    |
 External NIC
