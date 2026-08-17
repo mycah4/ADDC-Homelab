@@ -20,7 +20,6 @@ The script then processes each name and creates an Active Directory user account
 
 The general process is:
 
-```text
 Names File
     |
     v
